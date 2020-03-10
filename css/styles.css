@@ -1,0 +1,34 @@
+h1 {
+	color: white;
+	text-align: center;
+}
+
+p {
+	color: white;
+}
+
+body {
+	background-image: url(../images/background2-edit.png);
+	background-color: #000000;
+	background-size: cover;
+	background-repeat: no-repeat;
+	font-family: Helvetica, sans-serif;
+}
+span {
+	color: Red;
+}
+.first-paragraph {
+	padding: 20%;
+	font-size: 22px;
+	font-family: 'Inconsolata', monospace;
+}
+
+
+.button {
+  transition-duration: 0.4s;
+}
+
+.button:hover {
+  background-color: #4CAF50; /* Green */
+  color: white;
+}
